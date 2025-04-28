@@ -1,0 +1,14 @@
+🔹 9,637 sales records analyzed
+🔹 Top Product: Men's Street Footwear 👟
+🔹 Top Regions: California and New York 📍
+🔹 Leading Sales Channel: Online 🛒
+
+🔍 About the Dataset:
+This Adidas Sales dataset is a collection of mock data that includes information on the sales of Adidas products in the United States for 2020–2021.
+It contains details such as the retailer, number of units sold, total sales revenue, sales locations, product types, and other relevant insights.
+The currency denomination is USD.
+
+📚 Sources:
+This dataset was originally referenced from the Adidas Sales datasets by Ahmed Abbas and Heemali Chaudhari.
+Initially, it contained multiple discrepancies — such as incorrect total sales values and unwanted characters.
+A complete data cleaning process was carried out to prepare the dataset for smooth analysis.
